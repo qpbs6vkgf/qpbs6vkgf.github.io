@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qpbs6vkgf.github.io/sitemap.xml
